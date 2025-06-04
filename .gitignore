@@ -1,0 +1,29 @@
+# Python bytecode ja vahemälu
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtuaalkeskkonnad
+venv/
+.venv/
+env/
+
+# Jupyter Notebook vahemälu
+.ipynb_checkpoints/
+
+# Keskkonnamuutujad
+.env
+*.env
+
+# IDE / editori seadistused
+.vscode/
+.idea/
+*.iml
+
+# Suured andmestikud
+data/raw/
+data/processed/
+
+# Logifailid ja ajutised failid
+*.log
+.DS_Store
